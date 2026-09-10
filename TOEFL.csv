@@ -3,14 +3,14 @@ assure,"확신시키다 ; 보장하다","convince, persuade, satisfy ; guarantee
 legitimate,정당한,"just, justified, right, reasonable"
 strenuous,"격렬한, 힘든","intense, arduous, laborious"
 invoke,"빌다, 기원하다 ; 적용하다","call upon, pray to, conjure ; implement"
-astonish,놀라게하다,astound
+astonish,놀라게 하다,astound
 vanquish,"이기다, 정복하다","subdue, defeat, conquer"
 ruling,"우세한, 주요한","prevailing, dominant, prominent, supreme"
 absurdity,"불합리, 부조리, 모순된 말",
 ascend,"올라가다, 상승하다",
 ascendant,"상승하는, 우세한",
 irrevocably,돌이킬 수 없게,"permanently, irreversibly, irretrievably"
-contemptible,"경멸할만한, 비열한","mean, despicable"
+contemptible,"경멸할 만한, 비열한","mean, despicable"
 crouch,"웅크리다, 숙이다, 구부리다",
 preoccupation,"몰두, 집착, 선입견, 선취",
 occupation,"직업",
@@ -42,7 +42,7 @@ interrogation,심문,"inquiry, questioning"
 autonomy,"자치, 자율",
 ascendancy,우위,"predominance, supremacy"
 ravage,파괴하다,demolish
-authoritative,"권위있는, 믿을만한, 공식적인",
+authoritative,"권위 있는, 믿을 만한, 공식적인",
 plug,"채우다. 메우다","stuff, pack, fill up"
 disparity,불일치,"inconsistency, discrepancy"
 elucidate,(명료하게) 설명하다,"clarify, make clear"
@@ -78,7 +78,7 @@ disseminate,전파하다,
 seminate,"씨를 뿌리다, 전파하다",
 pore,"작은 구멍, 응시하다, 숙고하다",
 contemplate,"생각하다, 숙고하다",ponder
-alternate,번갈아 일어나다,"rotate, intercharge"
+alternate,번갈아 일어나다,"rotate, interchange"
 consort,"배우자, ~와 어울리다 (with)",
 incessant,"계속적인, 끊임없는",ceaseless
 endeavor,"노력, 시도, 실시, 시도하다",
@@ -179,19 +179,19 @@ adopt,(법률 등) 제정하다,
 enact,"(법률 등) 제정하다, 상연하다",
 stratified,층으로 이루어진,
 violent,격동하는,"agitated, turbulent"
-tumultuous,"떠들썩한, 소란스런, 격동하는",
+tumultuous,"떠들썩한, 소란스러운, 격동하는",
 erroneous,"잘못된, 틀린",
 adherent,지지자,"partisan, proponent"
 unqualified,"절대적인, 무조건적인",
 utter,"말하다, 완전한",
-gratify,"만족시키다, 기쁘게하다",
+gratify,"만족시키다, 기쁘게 하다",
 invariable,변함없는,
 assimilate,"(지식) 흡수하다, 이해하다, 동화시키다",
-compelling,"굉장한, 강렬한, 설득력있는",
+compelling,"굉장한, 강렬한, 설득력 있는",
 curious,"이상한, 별난, 호기심이 강한",
 delude,속이다,"mislead, deceive"
 detach,분리하다,
-detactment,"분리, 무관심",
+detachment,"분리, 무관심",
 indifference,무관심,unconcern
 indifferent,무관심한,"uninterested, unconcerned, careless"
 account,"(사건) 기술, 보고",narrative
@@ -200,7 +200,7 @@ imposing,인상적인,"striking,dramatic"
 impose,"부과하다, 제한하다",
 vitality,활력,
 vehicle,"수단, 매체, 차량",
-means,"수단, 메체","medium, instrument"
+means,"수단, 매체","medium, instrument"
 hitherto,지금까지,
 plague,"괴롭히다, 전염병",
 epidemic,전염병,infection
@@ -257,10 +257,66 @@ mortal,치명적인,"lethal, fatal"
 clumsy,서투른,
 constrain,"강요하다 ; 억제하다","oblige, bind ; restrict"
 turmoil,"소란, 동요","unrest, agitation, stir"
-majestic,"위엄있는, 웅대한","magnificent, august"
+majestic,"위엄 있는, 웅대한","magnificent, august"
 preeminent,뛰어난,"distinguished, foremost"
 primitive,"가공하지 않은, 원초적인",
 catfish,메기,
 subject,"피실험자, 겪게 하다",
 screen,검진하다,
 abscond,"도망치다, 벗어나다",flee
+proliferate,증식하다,
+stimulate,자극하다,prompt
+eclectic,"폭넓은, 다방면의, 다양한",
+palatial,"웅장한, 대궐 같은","splendid, majestic"
+potent,강력한,
+potency,효능,efficacy
+course through,~속을 흐르다,
+criterion,기준,
+advertent,"조심하는, 주의 깊은",
+witting,고의의,
+inadvertently,무심코,unwittingly
+feat,"위업, 업적",exploit
+strife,"마찰, 불화",friction
+materialize,나타나다,loom
+demise,"종말, 몰락, 서거, 사망",
+frankly,솔직히,"openly, candidly"
+immense,"굉장한, 막대한",
+immensely,"굉장히, 몹시, 매우",excessively
+excessive,"과도한, 지나친, 엄청난",
+deem,"생각하다, 여기다",
+suspend,"매달다, 연기하다",
+preclude,"방해하다, 막다",prevent
+genuine,진짜의,authentic
+superfluous,불필요한,
+wordy,장황한,repetitious
+profuse,풍부한,copious
+lavish,"낭비하는, 사치스러운, 아낌없이 주는",
+adorn,장식하다,"embellish, ornament"
+wreck,"파괴하다, 망가뜨리다",demolish
+voracious,"만족할 줄 모르는, 탐욕적인","insatiable, greedy, gluttonous"
+greed,"탐욕, 욕심",
+glutton,"대식가, 폭식가",
+greet,"맞이하다, 인사하다, 환영하다",
+veracious,진실한,
+betterment,"개혁, 개선",
+ameliorate,개선하다,amend
+determinant,결정 요인,"cause, factor"
+conventional,"평범한, 전통적인, 관습의",
+insolent,무례한,impertinent
+impudent,"건방진, 염치없는, 뻔뻔한, 무례한",
+constituent,"구성 요소의, 유권자",
+echo,"흉내 내다, 울리다",
+reiterate,되풀이하다,
+shoddy,질이 떨어지는,inferior
+imbibe,흡수하다,"soak up, take in"
+by which,그것에 의하여 ~하는,"through which, whereby"
+starch,녹말,
+liberate,해방하다,
+rational,합리적인,
+resist,"저항하다, (하고 싶은 것을) 참다",
+ardent,열렬한,fervent
+defunct,"멸종된, 죽은",
+sore throat,인후염,
+sore,"상처, 염증, 아픈",
+fever,열,
+arduous,힘든,
