@@ -1,52 +1,52 @@
 WORD,Meaning
 Benchmark,"기준점, 평가기준"
-Be benchmarked by : ~,"기준으로 평가되다, 판단되다, 정량화되다"
+be benchmarked by,"~을 기준으로 평가되다, ~와 비교해 성능을 측정받다"
 Morphology,형태
 Conjugation,활용
 Functionalize,기능화하다
-Dispose,"폐기하다, 처리하다 말고 배치하다 라는 뜻이 있음"
+dispose,"배치하다, 배열하다 (dispose of: 폐기하다, 처리하다)"
 Telehealth,원격치료
 Emulate,모방하다
-excitatory,흥분
+excitatory,"흥분성의, 흥분을 유발하는"
 Facilitation,"촉진, 간편화, 용이하게 하기"
 Cyclical,순환적
 viability,생존 능력
 proliferation,"확산, 증식"
 fluorescence,형광
-phosphorescene,인광
+phosphorescence,인광
 Stain,"얼룩지게하다, 더럽히다"
 Egest,체내로부터 배출하다
 Stimulus,자극
 Stimuli,자극들
 salivation,타액 분비
-Extinction,멸종
-Consolidation,강화
-So that ~,"하기 위해서, 할 수 있도록 , 그 결과, 그래서"
-Such that ~,"되도록, ~하기 위해서"
-sensitization,"감광, 민감화"
+extinction,"멸종, 소멸, 소거 (조건형성/학습 문맥)"
+consolidation,"통합, 공고화, 강화 (문맥)"
+so that,"~하도록, ~하기 위해서; 그 결과 ~하게 되도록 (문맥에 따라)"
+such that,"~하도록, ~라는 조건을 만족하도록"
+sensitization,"민감화, 감작; 감광 (광학 문맥)"
 faithfully,"정확히, 충실히, 성실하게"
 preprocess,전처리하다
 Tunable,조율할 수 있는
 facile,"손쉬운, 유창한"
 accessible,"사용하기 쉬운, 접근 가능한"
 Coverage,"범위, 지역"
-Deposit,"쌓이게하다, 퇴적시키다"
+deposit,"침전시키다, 쌓이게 하다, 증착하다; 침전물, 예금 (명사)"
 Crop,(가장자리 등을) 자르다
 Binarize,이진화하다
 Trajectory,궤도
 Par,"기준 수준, 평균 수준, 동등한 수준"
 Distinction,구별
 Allow for ~,가능하게 하다
-Atop,"정상의, \~의 꼭대기의"
+atop,"~의 꼭대기에, ~위에"
 Replicate,"복제하다, 되풀이하다"
 Epoch,시대
-Biomimetic,생체 모방
+biomimetic,생체 모방의
 Therapeutic,"치료의, 치료에 쓰이는, 치료 효과가 있는"
 Intractable,다루기 힘든
 Obscure,"불명확한, 애매하게 하다"
 analogy,"유사, 유추, 공통점"
 Timespan,"시간길이, 시간 간격"
-Conformality,"순응, 적합성, 균일성"
+conformality,"피복 균일성, 형상 추종성 (박막/공정); 적합성 (일반)"
 Conform,따르다
 Specification,사양
 Empirically,"경험적으로, 실증적으로"
@@ -68,7 +68,7 @@ Endow,부여하다
 viable,"실행가능한, 생존가능한"
 Spontaneity,즉흥성
 Wanderlust,여행욕구
-Touristy,관광객이 너무 많고 상업적인
+touristy,"관광객이 많은, 관광객 취향의, 관광지다운"
 Serenity,"평온함, 고요함"
 Overlook,"간과하다, 내려다보다"
 Tiresome,"피곤한, 지겨운"
@@ -78,7 +78,7 @@ Deployment,"배치, 전개, 배포"
 Foliage,"나뭇잎, 단풍"
 Leaf peeping,단풍구경
 Peep,엿보다
-Blossom,"꽃, 피다, 화"
+blossom,"꽃, 꽃이 피다"
 Bloom,꽃이 피다
 Vibrant,"활기찬, 생기넘치는"
 Nuanced,"세밀한, 미묘한"
@@ -90,19 +90,19 @@ Last minute,"막판의, 마지막 순간에"
 Serendipitous,"뜻밖의, 우연히 발견된 (행운 느낌)"
 Exploit,활용하다
 complementarily,상호 보완적으로
-Conjugated,복합된
+conjugated,"결합된, 공액된 (화학), 활용된 (문법)"
 Trajectory,궤적
 contextualize,"문맥화, 맥락화, ~을 문맥에 맞추다"
 Rival,"겨루다, 맞서다, 필적하다"
-Nontrivial,중요한
+nontrivial,"사소하지 않은, 상당한, 중요하거나 어려운"
 Trivial,"사소한, 하찮은"
-Partition,분배하다
-Enabler,성공의 요인
+partition,"분할하다, 분할, 칸막이, 분배하다"
+enabler,"가능하게 하는 요소, 실현 요인"
 Configuration,구성
 synergistic,상승작용의
-functionality,"기능성, 상관관계"
+functionality,"기능, 기능성"
 manifest,"나타나다, 분명하게하다"
-Mediate,"이용하다, 조정하다, 중재하다"
+mediate,"매개하다, 중재하다, 조정하다"
 coordinate,"좌표, 조정하다"
 Pronounced,"뚜렷한, 현저한"
 Pronounce,"발음하다, 선언하다"
@@ -112,32 +112,32 @@ mediated,에 의해 매개된
 Unify,"통일하다, 통합하다"
 Tailor,맞추다
 Harness,이용하다
-As such,그와같이
+as such,그 자체로서; 따라서 (문맥)
 cornerstone,토대
 Window shopping,아이쇼핑
 Credibility,"신뢰성 (사람, 정보, 자료)"
 Reliability,"신뢰성 (재현성, 안정성, 작동신뢰성)"
-Produce,제품
+produce,"생산하다, 만들어 내다; 농산물 (명사)"
 Akin to ~,와 유사한
-Inhibitory,"억제하는, 금지하는"
+inhibitory,"억제성의, 억제하는"
 Tier,"기능을 가진 소자층, 회로층, 층"
 Suspenseful,긴장감넘치는
 Stage fright,무대공포증
-Raliance,"의존, 신용, 신뢰"
+reliance,"의존, 의지"
 Scalp,두피
-Traction,수축
+traction,"견인력, 마찰에 의한 접지력, 견인"
 Hair follicle,모낭
-Intervention,간섭
+intervention,"개입, 중재, 간섭 (문맥에 따라)"
 Savory,맛있는
-Craving,"갈망하는, 땡기는 음식"
+craving,"갈망, 강렬한 욕구, 식탐"
 Appetite,식욕
 Temptation,유혹
 Binge,"폭식하다, 폭음하다"
 Addictive,중독적인
 kidney,"신장, 콩팥"
-Stroke,뇌졸증
-Heart attack,심장마비
-Airborne,공수부대
+stroke,"뇌졸중 (질환), 타격, 쓰다듬다 (동사)"
+heart attack,"심근경색, 심장 발작"
+airborne,"공중의, 공기로 운반되는, 공수의"
 amenable,"잘 따르는, 순종적인"
 Marginal,"근소한, 한계에 가까운"
 Confer,수여하다
@@ -145,7 +145,7 @@ Retentive,"보유하는, 보존하는"
 Composite,"합성의, 합성물"
 Configuration,"형상, 구성"
 Facile,손쉬운
-characteristic,"특성, 독특한, 특징적인"
+characteristic,"특성, 특징 (명사); 특징적인, 특유의 (형용사)"
 doctorate,박사학위
 Incense,"향, 향료"
 Green onion,대파
@@ -156,7 +156,7 @@ Serendipity,뜻밖의 행운
 Serenity,"평온함, 고요함, 마음의 평화"
 propensity,경향
 Peculiar,독특한
-Resilience,탄력
+resilience,"회복력, 복원력, 탄력성"
 Ambiguity,모호함
 Uncertainty,불확실성
 Vigorous,활발한
@@ -171,7 +171,7 @@ Compartment,칸
 Overhead compartment,머리 위 칸 (비행기)
 In-flight meal,기내식
 Be mindful of,신경쓰다
-Delicacy,"별미, 섬세함, 미묘함"
+delicacy,"별미, 섬세함, 민감함"
 Folk,민속의 (l 묵음임)
 Folksy,토속적인
 exotic,이국적인
@@ -205,7 +205,7 @@ Preferably,가급적이면
 Infantry,보병
 Naive,"순진한, 고지식한"
 Refer to,"언급하다, 참조하다, 나타내다"
-Factor,배수
+factor,"요인, 인수, 인자, 배수 (문맥에 따라)"
 By a factor of n,n을 곱한 만큼의 배율
 Sake,목적
 For the sake of ~,위해서 (+ 명사or명사구)
@@ -217,7 +217,7 @@ Remain nearly constant,일정하게 유지되다
 Integrate,적분하다
 Last but not least,"마지막으로 (부사, 문장 맨 앞에 씀)"
 Blackout curtains,암막커튼
-For good,"영원히, 계속 = forever"
+for good,"영원히, 완전히, 다시는 돌아오지 않게"
 litter,"쓰레기, 어지르다, 더럽히다"
 Homesickness,향수병
 Iconic,상징이 되는
@@ -235,7 +235,7 @@ Trinity,"삼위일체 - 기독교에선 성부, 성자, 성령"
 Reed,"갈대, 얇고 유연한 금속판"
 Alert,"경보, 알림, 위험한 상황, 중요한 정보를 즉시 알림"
 Warning,"경고, 미리 경고하는 느낌, 잠재적인 위험"
-Shake hands,악수하다
+contagious,"전염성의, 전파되기 쉬운"
 contagious,"전염성의, 영향력을 주는"
 exuberance,"풍부, 윤택, 활력"
 Intuitive,직관적인
@@ -244,26 +244,26 @@ Stroke,"쓰다듬다 (pet), 타격"
 Modality,"양식, 방식, 형태"
 Lamb skewers,양꼬치
 Lamb [laem],"어린 양, 식용 고기 이름"
-Sheep,살아있는 양 말할 때 씀
+sheep,양 (동물)
 Wedge,"쐐기, 경사면"
 Practice,"연습하다, 행위, 훈련, 관습"
 Period,"주기, 생리"
 chubby,"뚱뚱한, 통통한"
 Eye mask,안대
 Neck pillow,목베개
-Still water,생수
+still water,탄산이 없는 물
 Headroom,머리~천장 간 간격
 recap,"요약, 요약하다"
 Skeletal,골격의
 Bald,대머리의
 petite,몸집이 작은
-Urs,줄임말
-Holand,네덜란드 서부쪽 두개의 큰 주
-Takeaways,"회의, 강연에서 얻은 핵심 요점, 교휸"
+urs,yours의 비격식 문자 축약형 (문맥에 따라)
+Holland,"홀란트, 네덜란드 서부의 지역 (북홀란트/남홀란트)"
+takeaways,"핵심 요점, 교훈"
 Deliverable,"산출물. 제출물, 결과물"
 Annotate,주석을 달다
 Annotated,주석이 달린
-Phonetic,음성의
+phonetic,"발음의, 음성학적인"
 Phonetics,"음성 체계, 음성학, 발음학"
 Until,그때까지 지속됨
 By,마감기한처럼 그 전까지 무언가가 완료되어야 함
@@ -275,9 +275,9 @@ be offended,"기분이 상하다, 모욕감을 느끼다"
 processability,가공성
 Nature,자연
 Natural,자연스러운 (인위적이지 않은)
-Uniform,"똑같은, 일제히"
+uniform,"균일한, 동일한, 제복 (명사)"
 Benchmark,성능 측정을 위한 기준
-intermittent,"간헐적인, 주기적인, 일시적으로 멈추는"
+intermittent,"간헐적인, 때때로 중단되는"
 substantial,"상당한, 실질적인. 중대한"
 logarithmic,"로그의, 대수의"
 Deconvolute,겹쳐진(혼합된) 신호를 분리해서 각각의 구성 성분으로 되돌리는 것
@@ -285,8 +285,8 @@ Convolution,두 함수(또는 신호)를 결합해서 출력 신호를 생성하
 hypothesis,"가정, 추측"
 progression,"진행, 발전, 진보, 과정"
 In favor of,"찬성하여, 지지하여"
-Blueprint,"설계도, 원조"
-Supplement,"보조식품, 보충"
+blueprint,"설계도, 청사진, 계획"
+supplement,"보충하다, 보충(물), 보충제"
 billiards,당구
 pool,포켓볼
 predominant,"우세한 (비율, 수량적 측면에서)"
@@ -301,7 +301,7 @@ Buffet [bəféi],뷔페
 Literally,"진짜 완전, 문자그대로, 있는그대로"
 Sob,흐느껴울다
 axial,축의
-Hedral,그리스어에서 파생 - 면 에 대한 의미
+hedral,"면에 관한, 면을 가진 (합성어의 구성 요소)"
 Octahedral,정팔면체의
 Seesaw,"시소, 위아래로 움직이다"
 Good,오래 보아서 성격 등이 좋다고 느낄 때 사용
@@ -313,15 +313,15 @@ Throw,버리다
 Leather,가죽
 garbage,쓰레기
 Acrophobia,고소공포증
-Balckout,정전
+blackout,"정전, 의식 상실, 기억 단절"
 explicit,명백한
-Emulation,대등하게 되려고 본뜸
+emulation,"모방, 에뮬레이션, 경쟁하여 따라잡기"
 Reservoir,"저장소, 저수지"
 substantial,"상당한, 중대한, 실질적인"
 execute,"실행하다, 실시하다, 처형하다, 만들어내다"
-homophobic,동성애 혐오증
+homophobic,동성애 혐오의
 Leverage,기존의 장점을 적극 활용해서 더 큰 효과를 얻음
-Descent,"하강, 세습"
+descent,"하강, 내려감, 혈통, 가계"
 Inference,"추론, 추리"
 Coercive,"강제적인, 강압적인"
 maturity,성숙
@@ -339,16 +339,16 @@ alternatively,그 대신에
 Protocol,공식적인 절차나 규칙
 flee [fli:],"도망치다, 피하다, 떠나다"
 Insecurity,"불안정, 확신없음"
-Insecure,"불안한, 불안전한, (물건이) 위험한"
+insecure,"불안한, 불안정한, 안전하지 않은"
 Security,"보장, 보호, 보안, 안심"
 Seek,"찾다, 추구하다, 요청하다(격식체)"
-Tactic,"전략, 전술"
+tactic,"전술, 전략적 수단"
 Elliptical,"머신 이름, 타원형의"
 Sunny-side up,안 뒤집고 굽기
 Over easy,반숙인데 노른자 흐름
-Over medium,반숙인데 노른자 안 흐름
+over medium,양면을 익히되 노른자는 부분적으로만 익힌 달걀
 Over hard,완숙
-prostitution,"매춘, 변절"
+prostitution,"매춘, 성매매"
 Go off,"발생하다, 작동하다, 터지다, (불, 전기) 꺼지다"
 Any of you,"아무나, 너희들 중 아무나"
 Be in love with : ~,와 사랑에 빠져있다
@@ -365,14 +365,14 @@ Tempest,폭풍우
 Another hour,한시간 더
 Businessperson,사업가
 Wound,"상처, 고통"
-Bland,"단조로운, 지루한"
+bland,"싱거운, 밋밋한, 개성 없는"
 dialect,방언
 Canister,깡통
-burglary,"강도, 절도, 도둑질, 주거 침입"
+burglary,"건조물 침입 절도, 주거침입 절도"
 Vigilant,"경계하는, 방심하지 않는, 주의 깊은"
 Vigilante,"자경단원, 사적 제재자"
 ovulate,배란하다
-Either or,이라 그래서 뭔 소린가 했음
+either ... or ...,"~이거나 ~이다, 둘 중 하나"
 More or less,"거의, 대충, 어느정도"
 Spice,향신료
 Electrolytes,전해질
@@ -383,27 +383,27 @@ blot,"얼룩, 오점, 얼룩을 닦아내다/빨아들이다"
 erroneous,잘못된
 grain of salt,"있는 그대로 믿지 말고, 참고 정도로 받아들여라"
 indispensable,없어선 안될
-flexural,굴곡
-hygroscopic,흡습성
-dispose,폐기하다 느낌 (화학물 다룰 떄)
+flexural,"굽힘의, 휨에 관한"
+hygroscopic,"흡습성의, 수분을 잘 흡수하는"
+dispose of,"폐기하다, 처리하다"
 analyte,분석물
-Titration,"타이트레이션), 적정 : 농도를 알고 있는 표준 용액(적정제)을 농도를 모르는 분석 용액(시료)에 조금씩 떨어뜨려, 화학 반응이 완결되는 지점(종말점)을 통해 시료의 정확한 농도나 순도를 계산해내는 정량 분석 기술"
+titration,"적정, 농도를 아는 표준용액으로 미지 시료 농도를 구하는 정량 분석법"
 coalescence,합체
 Stipend,봉급 - 학업연구수습 기간 동안 생활비나 보조비 명목으로 정기적으로 지급하는 고정된 금액의 장려금이나 급료
 dice come up doubles,주사위를 던졌는데 두 개가 같은 숫자로 나왔다
 weld,용접하다
-override,우선하다
+override,"우선하다, (결정 등을) 뒤집다, 무효화하다, 덮어쓰다"
 contradictions,모순
-overrule,무시하다
+overrule,"기각하다, 판결/결정을 뒤집다"
 paramount,최고의
 Exemplary,모범적인
 Syringe,주사기
 Somehow,"왠지, 어쩐지, 어떻게든, 어찌저찌"
 plasticity,"유연성, 적응성"
 Latency,대기시간
-Dare,"도전, 용기"
+dare,"감히 ~하다, 도전하다, 용기"
 Drizzle,이슬비
-Hinge ~,"(on ~) 에 달려있다, 경첩, 틈"
+hinge (on),"경첩; ~에 달려 있다, ~에 좌우되다"
 exacerbate,악화시키다
 gargle,가글하다 (목까지 헹굴 때)
 rinse,그냥 입 안을 헹구다
@@ -414,7 +414,9 @@ Retard,"방해하다, 지연시키다"
 Cab,택시
 firecracker,폭죽
 Ferris wheel,관람차
-just / quickly / roughly,대충 빨리
+just,"그냥, 단지, 바로"
+quickly,빠르게
+roughly,"대략, 거칠게"
 Dictator,독재자
 Dictate,"받아쓰게하다, 지시하다, 좌우하다"
 Layover,"경유지, 대기시간"
@@ -436,13 +438,13 @@ Deviate,"벗어나다, 일탈하다"
 Take off,"이륙하다, 벗다, 빼다, 가다"
 Put off,미루다
 passport control,출입국 심사대
-Embryo,"발생, 배아, 수정란"
+embryo,배아
 Humongous,거대한
 "necessity, need",필요성
 Buckle up,안전벨트 매다
 Honk,경적을 울리다
 Lawsuit,소송
-frown,"눈살을 찌푸리다, 못마땅한"
+frown,"눈살을 찌푸리다, 찡그림, 못마땅해하다"
 Korean blood sausage,순대
 Suspect,의심하다
 euthanize,안락사시키다
@@ -451,9 +453,9 @@ Father,아빠
 down the road,미래 (나중에)
 farther down the road,좀 더 먼 미래 (한참 뒤에)
 Headwater,상류
-Down stream,하류
+downstream,"하류, 하류로"
 foreshadowing,복선
-Foreshadow,"예시하다, 전조가 되다, \~의 징조를 보이다"
+foreshadow,"암시하다, 전조가 되다, 앞일을 예고하다"
 Soft,푹신푹신한
 Warpage,반도체 제조 및 패키징에서 웨이퍼나 기판이 휘거나 뒤틀리는 현상
 Luncheon,"오찬, 점심"
@@ -463,12 +465,12 @@ in the event that,"~할 경우에, 만약 ~한 일이 생기면"
 Isomorph,동형체
 Crawfish,가재
 These days,요즘
-Nowadays,"세상의 요즘, 요즘날 (회화에서 쓰면 좀 어색해보임)"
+nowadays,"요즘, 오늘날"
 Clamp,집게
 Irritant,(통증 유발) 자극제
 Respiratory system,호흡기관
 Ordinary,평범한 = normal 느낌
-Ordinary school,일반 공립 학교
+ordinary school,일반 학교 (문맥에 따라)
 Pay,급여
 Salary,"급여, 봉급"
 thirsty,"목 마르는, 갈증이 난, 갈망하는"
@@ -484,7 +486,7 @@ Anion,음이온
 Cation,양이온
 Ones place,일의 자리
 Tenths place,소수 첫째 자리
-Hundreds place,소수 둘째 자리
+hundredths place,소수 둘째 자리
 Thousandths place,소수 셋째 자리
 Take off,"벗다, 이륙하다 라는 뜻도 있음"
 Persona,겉으로 드러나는 역할/이미지/캐릭터
@@ -501,7 +503,7 @@ either,둘 중 하나
 both,둘 다
 commitment,"약속, 책임, 헌신, 의지"
 Trick,속이다
-Warp your head around,"복잡하거나 충격적인 사실을 이해하다, 받아들이다"
+wrap your head around,"복잡한 내용을 이해하다, 받아들이다"
 X coordinate,x좌표
 infinitesimal,"극미한, 미소한, 무한히 작은"
 capital V,대문자 V
@@ -509,7 +511,7 @@ minus,빼기
 negative,음수 (마이너스 느낌)
 Parallel,병렬
 series,직렬
-speedometer,속도계기판
+speedometer,속도계
 thought,"생각했다, 판단했다"
 thought of,"떠올랐다, 생각났다"
 a professor,그냥 어떤 교수님 하나 (불특정)
@@ -522,7 +524,7 @@ units,추상적인 크기의 단위
 jewelry,"보석, 장신구"
 Accessory,"옷차림을 보완해 주는 모든 소품, 귀금속일 필요는 없음 (옷, 신발 제외)"
 bracelet,팔찌
-earing,귀걸이
+earring,귀걸이
 leaf,나뭇잎 [plural - leaves]
 in the middle of the day,정오 무렵 한낮
 gloomy,"어두컴컴한, 우울한, 침울한"
@@ -538,828 +540,829 @@ Catch-all,"다 포함하는, 두루뭉실한"
 And so on,기타 등등
 tired,피곤한
 exhausted,(더) 피곤한
-"worn out","녹초가 된, 기진맥진한"
-"exhausted","매우 지친 상태 (비격식적 표현)"
-"clarity","투명, 명료함, 뚜렷함"
-"Polish","다듬다, 다듬어진"
-"A Polished version","다듬어진 버전"
-"Quadrant","사분면"
-"Idiom","숙어, 관용구"
-"Downtime","휴식기간, 고장기간"
-"Rule of thumb","경험적인 규칙, 대체로 맞는 규칙"
-"Be used to + (동)명사","~에 익숙하다, 익숙해지다"
-"be getting used to + (동)명사","점점 ~에 익숙해지고 있다"
-"used to + 동사원형","~ 하곤 했다 (과거 습관)"
-"nerve-wracking","몹시 긴장되는, 스트레스 주는"
-"Manage one’s diet","식단관리하다"
-"Dietary","식단의"
-"Dietary preferences","음식 관련한 선호"
-"something like that =","그런 거 하나 (단수, 대충 추측/예시)"
-"things like that =","그런 것들 (복수, 여러 가지 예시 포함)"
-"and things like that","같은 것들도 [앞에서 말한 걸 포함 + 확장 (추가 느낌)]"
-"or things like that","라든지 뭐 그런 거 [앞에서 말한 건 예시 중 하나일 뿐 (대충 말하는 느낌)]"
-"portion of pork","돼지고기 한 인분/정해진 양 (식사 제공 문맥에서 자주 씀)"
-"First thing first","무엇보다도 먼저, 가장 중요한 걸 먼저"
-"Perimeter","주변, 경계"
-"For ya","for you의 구어체 표현"
-"Freak","별난, 괴짜같은"
-"Freakin’","freaking의 구어체 축약형"
-"sink","싱크대"
-"Clog","막다, 막히다, 장애물, 방해물"
-"Under the weather","몸이 좋지 않다, 아프다, 컨디션이 안좋다"
-"Try on","입어보다, 신어보다, 써보다"
-"mystical","신비로운, 불가사의한"
-"Elapse","지나다, 경과하다, 시간의 경과 (자동사)"
-"Buoy","부표, 뜨다"
-"Wake","보트가 빠르게 지나갈 때 생기는 파도"
-"No-wake buoy marker","물결(파도, wake)을 일으키지 말라는 뜻을 알리는 부표"
-"curvilinear","곡선의"
-"Bracket","받침대"
-"Basket","바구니"
-"Plz hold on a sec","기다려주세요"
-"Believe","말이나 사실을 믿다"
-"trust","사람을 믿다"
-"Believe in","신 따위를 믿을 때 씀"
-"split the bill","각자 계산하다"
-"wake-up call","모닝콜"
-"Chug","마셔라 (ex. Chug Chug Chug)"
-"Chug a drink","벌컥벌컥 마시다"
-"Set menu","코스요리"
-"pet","쓰다듬다, 어루만지다"
-"Borrow","빌리다"
-"Jujube","대추"
-"Chestnut","밤"
-"Fig","무화과"
-"Order","순서, 질서, 주문하다"
-"Ordinal","순서의, 서열을 나타내는"
-"Cardinal","가장 중요한, 기본적인"
-"a cardinal rule","가장 중요한 규칙"
-"cardinal number","기수 (1, 2, 3 …)"
-"Thin out","숱을 치다"
-"Just make it neat please","깔끔하게 잘라주세요"
-"Buzz cut","반삭"
-"Sideburns","구렛나루"
-"blonde","금발"
-"Brunette","갈색머리"
-"Take off","자르다"
-"Slightly off","귀에 닿지 않을 정도로"
-"Whitewalls","옆머리~귀 사이 부분"
-"Halfway","중간 지점"
-"half","절반"
-"way","길, 거리"
-"halfway between my eyes and eyebrows","눈과 눈썹 중간쯤"
-"Clipper","바리깡"
-"launch","발사하다, 진수하다, 시작하다"
-"the launch of a satellite","위성 발사"
-"product launch","제품 출시"
-"derivative","미분"
-"Differentiation","미분"
-"story","건물의 층"
-"Times","곱하기"
-"Weed","잡초, 마리화나"
-"By a factor of ~","배 만큼"
-"Factor","배"
-"asymptotic","점근선의"
-"Order","차수"
-"First order","1차"
-"Per se","딱히, 그 자체로, 본질적으로"
-"Surprisingly","의외로"
-"adapt","적응하다"
-"Adopt","입양하다, 채택하다, 적용하다"
-"fit in","적응하다"
-"Process","처리과정"
-"Phase","과정"
-"Gradually","점차"
-"Late","늦은, 지각한"
-"Just in case","혹시 모르니까, 만약을 대비해서"
-"In case of N","~의 경우에"
-"In case (N/ S+V)","만약 ~할 경우에 대비해서"
-"Notice","알아차리다"
-"Sleep","자다 (행위)"
-"Virgin","순수한"
-"Populate","살다, 서식하다. 값을 채워 넣다, 입력하다"
-"out of","~에서 뽑아서, ~를 기반으로"
-"such that","~하도록, ~이 되도록, ~라는 조건으로"
-"Appointment","병원, 미용실, 면접 같은 약속 (사람을 만나는 약속)"
-"Reservation","예약 (자리, 공간, 물건 등을 확보하기 위한 약속)"
-"Plans","가벼운 약속"
-"Borrow","빌리다"
-"Lend","빌려주다"
-"Be about to","막 ~하려고 하다"
-"Splurge","사치하다, 낭비하다, 과시하다 (자동사)"
-"Splurge on something","무언가에 돈를 아낌없이 쓰다, 사치하다"
-"A high yield savings account","고수익 예금 계좌"
-"Contribute","기여하다, 주다, 제공하다, 바치다"
-"Stretch one’s dollars(money)","돈을 아껴 쓰다, 효율적으로 쓰다"
-"exclamation","감탄"
-"exclamation mark","느낌표"
-"Question mark","물음표"
-"Interrogate","조사하다, 질문하다"
-"Any and all","모든, 단 하나도 빠짐없이 (강조, 격식체)"
-"Convince","설득시키다, 납득시키다, 확신시키다"
-"Be clogged","막혔다"
-"Scale","저울"
-"Yacht","요트"
-"Honorifics","경어, 경칭, 높임말"
-"Wave","손 흔드는 인사"
-"Bow","고개 숙여 인사하다"
-"Articles","관사"
-"Indefinite article","부정관사"
-"Definite article","정관사"
-"Look forward to + 동명사","~를 기대하다"
-"Compare","비교하다 (유사점)"
-"Contrast","대조하다 (차이점)"
-"Comparison","비교"
-"Easy","그냥 쉽다, 어렵지 않다는 의미"
-"Straightforward","복잡하지 않고, 이해하기 쉽다 / 절차가 간단하다는 의미"
-"Ginseng","인삼"
-"Red ginseng","홍삼"
-"Ginger","생강"
-"territory","영토, 영역, 지역, 세력권"
-"Thank you in advance","미리 감사드립니다"
-"chaperon(e)","보호자"
-"Excuse","변명하다"
-"Execute","실행하다, 수행하다"
-"Execution","실행"
-"Prime number","소수 (1과 자기자신으로만 나눠지는 수)"
-"asynchronous","동시에 일어나지 않는"
-"Greatest Common Divisor (gcd)","최대공약수"
-"No way","설마, 진짜야? 말도안돼, 절대안돼"
-"Beard","턱수염"
-"Never mind","신경쓰지마"
-"Seismic","지진의"
-"not fun","괴로운"
-"not funny","안 웃겨"
-"way before +","한참 전에"
-"spoil","망치다, 너무 잘해주다, (잘해줘서) 버릇 나빠지게 하다"
-"say","(글로 쓰여진 경우) 나타내다"
-"indicate","(글 대신 그림인 경우) 나타내다"
-"alone","다른 사람 없이 (두 명인 경우만), 홀로"
-"kid","젊은이 라는 뜻도 있음"
-"live in","(영구 거주) ~에 살다"
-"likewise, You too","저도요"
-"understand me","내 말을 이해해줘 (잘 해석해달라는 뜻)"
+worn out,"녹초가 된, 기진맥진한"
+exhausted,"기진맥진한, 매우 지친"
+clarity,"투명, 명료함, 뚜렷함"
+Polish,"다듬다, 다듬어진"
+A Polished version,다듬어진 버전
+Quadrant,사분면
+Idiom,"숙어, 관용구"
+Downtime,"휴식기간, 고장기간"
+Rule of thumb,"경험적인 규칙, 대체로 맞는 규칙"
+be used to + 명사/동명사,~에 익숙하다
+be getting used to + (동)명사,점점 ~에 익숙해지고 있다
+used to + 동사원형,~ 하곤 했다 (과거 습관)
+nerve-wracking,"몹시 긴장되는, 스트레스 주는"
+Manage one’s diet,식단관리하다
+Dietary,식단의
+Dietary preferences,음식 관련한 선호
+something like that =,"그런 거 하나 (단수, 대충 추측/예시)"
+things like that =,"그런 것들 (복수, 여러 가지 예시 포함)"
+and things like that,같은 것들도 [앞에서 말한 걸 포함 + 확장 (추가 느낌)]
+or things like that,라든지 뭐 그런 거 [앞에서 말한 건 예시 중 하나일 뿐 (대충 말하는 느낌)]
+portion of pork,돼지고기 한 인분/정해진 양 (식사 제공 문맥에서 자주 씀)
+first things first,"무엇보다도 먼저, 중요한 것부터"
+Perimeter,"주변, 경계"
+For ya,for you의 구어체 표현
+freak,"괴짜, 별난 사람; 기이한 (형용사 용법)"
+Freakin’,freaking의 구어체 축약형
+sink,싱크대
+Clog,"막다, 막히다, 장애물, 방해물"
+Under the weather,"몸이 좋지 않다, 아프다, 컨디션이 안좋다"
+Try on,"입어보다, 신어보다, 써보다"
+mystical,"신비로운, 불가사의한"
+Elapse,"지나다, 경과하다, 시간의 경과 (자동사)"
+Buoy,"부표, 뜨다"
+Wake,보트가 빠르게 지나갈 때 생기는 파도
+No-wake buoy marker,"물결(파도, wake)을 일으키지 말라는 뜻을 알리는 부표"
+curvilinear,곡선의
+Bracket,받침대
+Basket,바구니
+Plz hold on a sec,기다려주세요
+Believe,말이나 사실을 믿다
+trust,사람을 믿다
+believe in,"~의 존재/가치/가능성을 믿다, ~을 신뢰하다"
+split the bill,각자 계산하다
+wake-up call,모닝콜
+Chug,마셔라 (ex. Chug Chug Chug)
+Chug a drink,벌컥벌컥 마시다
+set menu,"세트 메뉴, 정식"
+pet,"쓰다듬다, 어루만지다"
+Borrow,빌리다
+Jujube,대추
+Chestnut,밤
+Fig,무화과
+Order,"순서, 질서, 주문하다"
+Ordinal,"순서의, 서열을 나타내는"
+cardinal,"주요한, 가장 중요한; 기수 (수학)"
+a cardinal rule,가장 중요한 규칙
+cardinal number,"기수 (1, 2, 3 …)"
+Thin out,숱을 치다
+Just make it neat please,깔끔하게 잘라주세요
+Buzz cut,반삭
+Sideburns,구렛나루
+blonde,금발
+Brunette,갈색머리
+take off,"벗다, 이륙하다, 제거하다, (머리카락의 길이를) 잘라내다"
+Slightly off,귀에 닿지 않을 정도로
+Whitewalls,옆머리~귀 사이 부분
+Halfway,중간 지점
+half,절반
+way,"길, 거리"
+halfway between my eyes and eyebrows,눈과 눈썹 중간쯤
+Clipper,바리깡
+launch,"발사하다, 진수하다, 시작하다"
+the launch of a satellite,위성 발사
+product launch,제품 출시
+derivative,"도함수, 파생물, 파생된"
+Differentiation,미분
+story,이야기; (건물의) 층
+Times,곱하기
+Weed,"잡초, 마리화나"
+By a factor of ~,배 만큼
+factor,"요인, 인수, 인자, 배수 (문맥에 따라)"
+asymptotic,"점근적인, 점근선에 관련된"
+Order,차수
+First order,1차
+per se,"그 자체로, 본질적으로"
+Surprisingly,의외로
+adapt,적응하다
+Adopt,"입양하다, 채택하다, 적용하다"
+fit in,적응하다
+Process,처리과정
+Phase,과정
+Gradually,점차
+late,"늦은, 지각한"
+Just in case,"혹시 모르니까, 만약을 대비해서"
+In case of N,~의 경우에
+In case (N/ S+V),만약 ~할 경우에 대비해서
+Notice,알아차리다
+Sleep,자다 (행위)
+virgin,"성관계 경험이 없는; 손대지 않은, 미사용의 (문맥)"
+Populate,"살다, 서식하다. 값을 채워 넣다, 입력하다"
+out of,"~에서 뽑아서, ~를 기반으로"
+such that,"~하도록, ~이 되도록, ~라는 조건으로"
+Appointment,"병원, 미용실, 면접 같은 약속 (사람을 만나는 약속)"
+Reservation,"예약 (자리, 공간, 물건 등을 확보하기 위한 약속)"
+Plans,가벼운 약속
+Borrow,빌리다
+Lend,빌려주다
+Be about to,막 ~하려고 하다
+Splurge,"사치하다, 낭비하다, 과시하다 (자동사)"
+splurge on something,"~에 돈을 아낌없이 쓰다, 사치하다"
+A high yield savings account,고수익 예금 계좌
+Contribute,"기여하다, 주다, 제공하다, 바치다"
+Stretch one’s dollars(money),"돈을 아껴 쓰다, 효율적으로 쓰다"
+exclamation,감탄
+exclamation mark,느낌표
+Question mark,물음표
+Interrogate,"조사하다, 질문하다"
+Any and all,"모든, 단 하나도 빠짐없이 (강조, 격식체)"
+Convince,"설득시키다, 납득시키다, 확신시키다"
+Be clogged,막혔다
+Scale,저울
+Yacht,요트
+Honorifics,"경어, 경칭, 높임말"
+Wave,손 흔드는 인사
+Bow,고개 숙여 인사하다
+Articles,관사
+Indefinite article,부정관사
+Definite article,정관사
+Look forward to + 동명사,~를 기대하다
+Compare,비교하다 (유사점)
+Contrast,대조하다 (차이점)
+Comparison,비교
+Easy,"그냥 쉽다, 어렵지 않다는 의미"
+Straightforward,"복잡하지 않고, 이해하기 쉽다 / 절차가 간단하다는 의미"
+Ginseng,인삼
+Red ginseng,홍삼
+Ginger,생강
+territory,"영토, 영역, 지역, 세력권"
+Thank you in advance,미리 감사드립니다
+chaperon(e),보호자
+Excuse,변명하다
+Execute,"실행하다, 수행하다"
+Execution,실행
+prime number,"소수, 1보다 큰 자연수 중 약수가 1과 자기 자신뿐인 수"
+asynchronous,동시에 일어나지 않는
+Greatest Common Divisor (gcd),최대공약수
+No way,"설마, 진짜야? 말도안돼, 절대안돼"
+Beard,턱수염
+Never mind,신경쓰지마
+Seismic,지진의
+not fun,괴로운
+not funny,안 웃겨
+way before +,한참 전에
+spoil,"망치다, 너무 잘해주다, (잘해줘서) 버릇 나빠지게 하다"
+say,"말하다; (글·표지 등에) 쓰여 있다, 나타내다"
+indicate,"나타내다, 가리키다, 시사하다"
+alone,"홀로, 혼자, 다른 사람 없이"
+kid,젊은이 라는 뜻도 있음
+live in,"~에 살다, ~에 거주하다"
+"likewise, You too",저도요
+understand me,내 말을 이해해줘 (잘 해석해달라는 뜻)
 "please understand, please bear with me","이해해주세요, 양해해주세요 (공감적인 측면)"
-"for a sec","잠깐"
-"come here","이리 와"
-"come on over","여기로 와줘"
+for a sec,잠깐
+come here,이리 와
+come on over,여기로 와줘
 "same old, same old","항상 똑같이 뭐 = nothing special, nothing much"
-"Be up to something ~","~ 하고있다"
+be up to something,"무언가를 꾸미다, 꿍꿍이가 있다; be up to: ~을 하고 있다"
 "No, thanks","아니요, 괜찮아요 (No thanks, I'm good)"
-"Not for me, thanks","저한텐 안 맞는 것 같아요"
-"Maybe later","나중에요 (거절 + 희망 보류)"
-"Encounter +","안좋은 상황, 문제(보고서, 기사) 를 맞닥뜨리다"
-"run into +","(사람을) 우연히 만나다 (구어체)"
-"premiere","상영회, 개봉하다"
-"staunch","확고한, 충실한 (dedicated)"
-"queue","줄을 서다, 대기열 (british word)"
-"letdown","실망 (disappointment), 실망시키다, 감소"
-"passion","열정"
-"befriend","친구가 되다."
-"Cross","이성친구"
-"Along","함께"
-"Come along","같이가다"
-"Tag along","따라가다"
-"Tag","술래잡기, 표시하다"
-"Come over","집에 놀러가다"
-"Foodie","음식 애호가 (가산명사)"
-"Be addicted to : ~","에 중독 되었다"
-"Street smart","위험한 동네에서 행동, 길찾는 센스 이런 거에 발달한 사람"
-"Find","찾다 (찾은 상태)"
-"Be looking for","찾다 (찾고있는 상태)"
-"Find out","알아보다"
-"Search","뒤지다"
-"Search the internet","인터넷을 뒤지다"
-"Search for the information","정보를 찾다"
-"Profanity","비속어"
-"In the meantime","그동안"
-"Meanwhile","동시에"
-"Obviously","딱봐도"
-"Apparently","듣자하니"
-"In forever","오랜만에"
-"Be starting to like","점점 좋아지다"
-"No way","말도안돼, 그럴리가 없어, 절대 안 돼"
-"Percentage","백분율 (숫자랑 사용 X)"
-"tortoise [tɔ́ːrtəs]","거북이 (육지)"
-"Turtle","바다거북, 거북"
-"Inept","서투른, 부적절한"
-"postpone","유보하다 (미루다라는 뉘앙스 아님)"
-"call off","취소하다"
-"breeder","사육사"
+"Not for me, thanks",저한텐 안 맞는 것 같아요
+Maybe later,나중에요 (거절 + 희망 보류)
+encounter,"마주치다, 만나다, 직면하다"
+run into +,(사람을) 우연히 만나다 (구어체)
+premiere,"상영회, 개봉하다"
+staunch,"확고한, 충실한 (dedicated)"
+queue,"대기열, 줄을 서다"
+letdown,"실망 (disappointment), 실망시키다, 감소"
+passion,열정
+befriend,친구가 되다.
+cross,"십자가, 교차하다, 가로지르다, 화난 (문맥에 따라)"
+Along,함께
+Come along,같이가다
+Tag along,따라가다
+Tag,"술래잡기, 표시하다"
+come over,"이쪽으로 오다, (집에) 들르다"
+Foodie,음식 애호가 (가산명사)
+Be addicted to : ~,에 중독 되었다
+Street smart,"위험한 동네에서 행동, 길찾는 센스 이런 거에 발달한 사람"
+Find,찾다 (찾은 상태)
+Be looking for,찾다 (찾고있는 상태)
+Find out,알아보다
+Search,뒤지다
+Search the internet,인터넷을 뒤지다
+Search for the information,정보를 찾다
+Profanity,비속어
+In the meantime,그동안
+meanwhile,"그동안, 한편, 그 사이에"
+Obviously,딱봐도
+Apparently,듣자하니
+not ... in forever,"정말 오랫동안 ~하지 않았다, 오랜만이다"
+Be starting to like,점점 좋아지다
+No way,"말도안돼, 그럴리가 없어, 절대 안 돼"
+percentage,"백분율, 비율"
+tortoise [tɔ́ːrtəs],거북이 (육지)
+Turtle,"바다거북, 거북"
+Inept,"서투른, 부적절한"
+postpone,"연기하다, 미루다"
+call off,취소하다
+breeder,"사육자, 번식업자, 육종가"
 "win + 경기, 경쟁대상","(경쟁대상, 경기) 이기다"
-"win + 사람","~의 마음을 얻다"
-"beat + 사람","~을 이기다"
-"date with someone","데이트하다"
-"date someone","사귀다"
-"upgrade","(기술, 시스템, 장비) 업그레이드 하다"
-"stray cats","길고양이"
-"alley cats","길고양이"
-"attractive","잘생긴, 예쁜"
-"pathetic","불쌍한 (원어민 사이에선 한심한 이라고 사용)"
-"Even better then I expected","기대보단 좋다 (긍정 뉘앙스)"
-"Butt","엉덩이 - back of your pants, backside로 말하는게 일반적"
-"Hip","골반"
-"Puzzle","당황"
-"Freak out","놀라다, 당황하다"
-"Embarrassed","창피한"
-"Embarrass","창피하게 하다"
-"embrace","포용하다, 포옹하다, 받아들이다"
-"Discard","(지침, 메뉴얼을) 버리다, 폐기하다"
-"Throw away, junk","쓰레기를 버리다"
-"take out","내다버리다"
-"Partner with","협력하다"
-"Come across","우연히 찾다, 만나다"
-"Monsoon","호우, 계절풍"
-"Grumble","불평하다"
-"Stumble","비틀거리다. 부진하다"
-"culinary","요리의, 부엌의, 요리용의"
-"jealous","부러워하는, 질투하는"
-"Until the end","끝까지"
-"Leftovers","남은 음식"
-"vague","애매한, 모호한"
-"ambiguous","두 가지로 해석될 수 있는, 모호한"
-"unclear","불분명한"
-"misunderstand","오해하다"
-"plump","살짝 포동포동한"
-"pudgy","통통한, 토실토실한"
-"Orientation schedule","오티 일정"
-"Crutch","버팀목, 목발"
-"See you in an hour","한시간 뒤에 봐"
-"maternity","모성"
-"Paternity","부성"
-"Scam","신용사기, 사기"
-"Chalkboard","칠판"
-"Elbow","팔꿈치"
-"Wrist","손목"
-"Nail","손톱"
-"toenail","(사람의) 발톱"
-"Toe","발가락"
-"Tiptoe","발 끝"
-"Maze","미로"
-"Abduct","납치하다"
-"Abduction","납치"
-"Luckily… / Fortunately…","(문장 맨 앞에 위치) 다행히"
-"tweak","비틀다"
-"pull a muscle","근육이 결리다"
-"Sprain","삐다"
-"Hallow","신성하게 하다, 성직자"
-"Mission","사절단"
-"Rejuvenate","젊어지다, 회복하다, 활력을 되찾게 하다"
-"Menace","위험, 위협하다, 협박하다."
-"Dish detergent","주방세제"
-"Deodorant","디오드런트 탈취제"
-"adjective","형용사"
-"moreover","게다가"
-"furthermore","게다가"
-"consequently","결과적으로"
-"nevertheless","그럼에도 불구하고"
-"otherwise","그렇지 않으면"
-"not a big deal","별 일 아니다"
-"On that front","그점에 있어서는"
-"Email + 사람","~에게 메일을 보내다"
-"In a bit","조금 있다가"
-"apurpose","고의로, 일부러"
-"text, message + 사람","~에게 메세지를 보내다"
-"message me","메세지 줘"
-"Send a message to ~","~에게 메시지를 보내다"
-"Call","에게 전화걸다"
-"call to N","N를 소리쳐 부르다, 부르다"
-"call for","요구하다"
-"Prefix","접두사"
-"Plagiarism","표절"
-"Draft","초안"
-"Overseas","해외"
-"Entree","주요리, 입장"
-"C/O","care of : ~씨 앞으로 전달해 주세요 느낌"
-"Two hour windows","두시간 내 - 라는 의미"
-"Window","제한된 시간, 범위 등으로도 쓰임"
-"Stereo","오디오"
-"Stereotype","고정관념"
-"kinesiology","운동학"
-"Sneeze","재채기"
-"Right triangle","직각삼각형"
-"Fish cake","어묵"
-"Pepper","후추"
-"Radish","무"
-"Pickled radish","단무지"
-"Rice cake","떡"
-"Portable charger","보조배터리"
-"Translate","옮기다, 번역하다"
-"Up until a year ago","1년 전까지만 해도"
-"up until : ~","까지 쭉"
-"consonant","자음"
-"vowel","모음"
-"intonation","억양"
-"whole","완전한, 전체의"
-"Ask for","요구하다"
-"be looking for","찾고있다"
-"be looking forward to","기대하고 있다"
-"roast dinner","주말 가족 큰 상차림 느낌"
-"fuss","관심, 신경, 호들갑"
-"be fussed on / about ~","에 신경쓰다, 관심있다"
-"Things like : ~","같은 것들"
-"like","약간, 뭐랄까"
-"tie","무승부"
-"1 verse 1","1 대 1 (점수 말고 인원수)"
-"draw","무승부"
-"flour","밀가루"
-"flower","꽃"
-"meet","만나다"
-"meat","고기"
-"sea","바다"
-"see","보다"
-"right","오른쪽, 옳은"
-"write","쓰다"
-"knight","기사 (중세)"
-"night","밤"
-"pair","한 쌍"
-"pear","배(과일)"
-"sun","태양"
-"son","아들"
-"like","닮았다. 비슷하다"
-"as ~","대로, ~처럼 (방법/역할)"
-"As if","마치 ~처럼 (가정/상상)"
-"difficulty","어려움/장애물"
-"obstacle","어려움/장애물"
-"hurdle","어려움/장애물"
-"Predicament","난처한 곤경"
-"crisis","위기"
-"uncertainty","불확실성"
-"unpredictability","불확실성"
-"insecurity","불확실성"
-"Hesitate","망설이다"
-"Sense of relief","안도감"
-"sense of reassurance","안도감"
-"Reassure","안심시키다, 확신시키다."
-"Assure","보장하다, 확신시키다."
-"no longer alone, not alone anymore","더 이상 혼자가 아닌"
-"Offer to 동사원형","~ 해주다, 행동을 제안하다"
-"Wrap your head around something","복잡하거나 충격적인 사실을 이해하다, 받아들이다"
-"Stretch one’s money","돈을 절약해 오래 쓰다"
-"Farewell","작별 인사"
-"goodbye","작별 인사"
-"stepping stones","발판"
-"a springboard","도약대"
-"Laughter","웃음, 웃음소리"
-"Laugh","웃다, 웃음"
-"overlapped with, mirrored","겹쳤다"
-"Journey","여정"
-"Voyage","바다, 우주 같은 긴여행"
-"personal growth","개인의 내적 성장"
-"shake","흔들다 - shook 흔들었다."
-"unsettle","동요시키다, 불안정해지다, 뒤흔들다"
-"loss, damage, setback","손실"
-"Setback","계획이나 발전의 차질, 좌절"
-"Longing","갈망, 간절히 그리워 하는 마음"
-"Long","그리워하다, 갈망하다"
-"Radius","반지름"
-"Diameter","지름"
-"Sqrt","제곱근 (square root)"
-"Cube root","세제곱근"
-"Forth root","네제곱근"
-"punctuation","구두점, 문장부호 / 구두법"
-"hamper","방해하다, 저해하다, (진행에) 문제를 일으키다"
-"firsthand","직접적인, 직접 경험한"
-"up-to-date","최신의, 최신 정보를 반영한"
-"invigorate","활기를 불어넣다, 기운 나게 하다"
-"articulate","(생각을) 분명히 표현하다, 또렷하게 말하다"
-"garner","(정보·지지 등을) 얻다, 모으다"
-"before a live audience","관중 앞에서, 실제 청중 앞에서"
-"oppression","억압, 압제, 억누름"
-"acquiescing","(마지못해) 순응하다, 묵인하다, 받아들이다"
-"thesis","논문, 논제, 주장 (특히 학위 논문)"
-"likelihood","가능성, 확률"
-"convey","전달하다, 전하다 (생각·감정·정보 등을)"
-"formulaic","정형화된, 틀에 박힌, 공식적인"
-"infrastructure","사회 기반 시설 (도로·철도·통신·전력망 등)"
-"unalterably","불변하게, 바꿀 수 없게"
-"hostile","적대적인, 적의 있는"
-"stilted","(말이나 글이) 부자연스러운, 딱딱한"
-"manifestation","(감정·현상 등의) 나타남, 표현, 징후"
-"sparingly","조금만, 절약하여, 드물게"
-"sparing","절약하는, 아끼는, 검소한"
-"sailing","항해, 배 타고 가는 것"
-"Spare","여분의, 여가, 남은, 아끼다"
-"Shame","아쉬운 일, 수치심, 부끄러움"
-"weather-wise","날씨 면에서는"
-"money-wise","돈 관련해서는"
-"schedule-wise","일정 면에서는"
-"health-wise","건강 관련해서는"
-"emotional","감정적인, 정서적인"
-"mental","정신적인"
-"psychological","심리적인"
-"memory","추억 (가산)"
-"memory","기억력 (불가산)"
-"Stand","견디다"
-"connected to","직접적으로 관련되다"
-"connected with","(추상적, 일반적으로) 관련되다."
-"Irritation","짜증"
-"Irritate","짜증나게 하다"
-"symbol","상징"
-"In modern academic culture","현대의 학문적 문화에서"
-"a decline in academic performance","학업 성취도 저하"
-"long-term memory","장기 기억"
-"the likelihood of anxiety and depression","불안과 우울증의 가능성"
-"Likelihood","가능성"
-"insomnia","불면증"
-"expatriate","외국인"
-"Forgive","용서하다"
-"Verdict","평결(유무죄에 대한 배심원의 최종 판단)"
-"sober up","술 깨다"
-"tipsy","알딸딸한"
-"sarcasm","빈정거림, 비아냥, 비꼼"
-"Layover","경유 대기시간"
-"Vain","헛된"
-"Ethnicity","인종적 정체성, 민족성"
-"Race","신체적, 인종적 분류"
-"causation","인과관계"
-"Correlation","상관관계"
-"Irritability","과민성"
-"Milestone","이정표, 중요한 시점"
-"Sore [sɔːr]","아픈"
-"Throat","목"
-"Quote [kwout]","인용하다, 문구"
-"Separate","분리된, 따로 만든"
-"Mock","모의의, 가짜의, 조롱하다"
-"Mock test","모의 시험"
-"The other day","며칠전에"
-"Just so you know","참고로 말하자면"
-"inertia","관성"
-"Function","역할, 기능"
-"Role","역할"
-"Coincide","동시에 일어나다, 일치하다"
-"coincidence","우연, 동시, 인연"
-"two weeks before ~","~하기 2주 전에"
-"In three weeks","3주 후에"
-"Three weeks later","3주 후"
-"stand","서다, 견디다 (스트레스)"
-"Stand for","의미하다, 지지하다"
-"Endure","견디다 (스트레스)"
-"Withstand","견디다 (물리적 압력, 공격을)"
-"Phenomenal","현상의, 놀라운, 대단한, 굉장한"
-"Holocaust","홀로코스트, 유대인 대학살, 인종청소"
-"Linking sound","연음"
-"Suffix","접미사"
-"Entry [ɛntri]","입구, 출입구"
-"Entrée [áːntrei]","입장, 입장권"
-"Spray","뿌리다"
-"Stinky","냄새나는, 악취나는"
-"constellation","별자리, 위상, 무리, 집합"
-"Name after ~","이름을 따서 짓다"
-"capitalism","자본주의"
-"communism","공산주의"
-"characterization","표현, 묘사"
-"Shark","상어"
-"Statue","조각상"
-"directness","솔직함, 똑바름"
-"A sense of directness","직설적인 느낌, 솔직함"
-"Fine art","순수미술"
-"Whine","징징거리다"
-"Due + 방향","정확히 그 방향"
-"Due north","정북"
-"Due south","정남"
-"North of east","동쪽을 기준으로 북쪽으로 몇 도"
-"Eggplant","가지"
-"Reply","답장하다, 회신하다, 응답하다"
-"Bok choy","청경채"
-"On behalf of","~입장에서, ~의 편에서"
-"On behalf of team, thank you","팀을 대표해서 감사드립니다"
-"Badly","심하게, 몹시, 간절히, 진짜"
-"Awkward","어색한"
-"eyesight","시력"
-"past tense","과거시제"
-"Future tense","미래시제"
-"Present tense","현재시제"
-"tense","시제"
-"Converge","수렴하다"
-"Diverge","발산하다"
-"In half","두조각"
-"Into three pieces","세조각"
-"Into four pieces","네조각"
-"Extractor","환풍기"
-"Fan","선풍기"
-"Pillar","기둥"
-"Empathize with","(경험으로부터) 공감하다"
-"The other person, counterpart","상대방"
-"The back of the/my/your hand","손등"
-"Haunt","괴롭히다, 나타나다, 유령이 있는"
-"Trash","버리다, 쓰레기로 취급하다"
-"earthquake","지진"
-"go to","이동 동작 자체(가다)"
-"get to","목적지에 도착하는 것에 초점"
-"Leverage","영향력"
-"Deviation","편차, 일탈, 벗어남"
-"Manful","남자다운, 굳센"
-"contender","경쟁자"
-"contend","다투다"
-"precedent","전례"
-"densification","치밀화"
-"Trace level","미량"
-"trace","흔적, 자취, 극미량(과학, 공학 영어)"
-"comprehensive","포괄적인"
-"decompose","분해하다"
-"underlying","밑에 있는"
-"degradation","하락"
-"be attributed to","~에 귀속되다, 때문이다, 덕분이다"
-"substitution","치환"
-"marginally","미미하게"
-"reliability","신뢰도"
-"ingress","입구"
-"Half hour tops","길어야 30분"
-"Half hour at the longest","길어야 30분, 최대 30분 정도"
-"At the longest","최대, 아무리 길어도"
-"one and a half hours","1시간 반"
-"variability","변동성, 다양성"
-"Elevate","올리다, 높이다, 상승"
-"Complement","보완하다"
-"Assess [əˈses]","평가하다, 평가, 부과하다"
-"pristine","초기의, 원래의"
-"Original","원래의"
-"corroborate","확증하다, 확실히 하다"
-"Landscape","풍경, 지역, 지형"
-"quantitatively","양적으로"
-"Mitigate","완화하다, 줄이다, 저감, 감소"
-"deconvoluted","분리된"
-"Underpin","지지하다, 확증하다"
-"Addict","중독되다"
-"Clash","충돌하다"
-"Royal","왕실의, 왕족"
-"Loyal","충실한"
-"Every now and then","가끔씩"
-"From time to time","가끔씩 (책에서 쓰는 용어)"
-"Ever since","~ 한 이래로 계속, 줄곧"
-"String lights","줄전구, 전구 조명, 장식용 조명"
-"Carousel","회전목마"
-"Overcrowding","과밀"
-"Camp","야영하다, 캠핑하다"
-"Comfort","위로, 안도감, 위로하다, 슬픔을 달래주다"
-"take away","치우다"
-"take off","벗다, 이륙하다, 자르다 (머리)"
-"Got identified","들키다, 정체가 드러나다"
-"Verdigo","현기증, 어지럼증"
-"Suitemate","룸메이트의 넓은 개념"
-"Pull up","(차량이) 움직이다가 멈추다"
-"Be trying to~","~하려고 노력 중이다, ~하려는 중이다"
-"Deformation","변형"
-"Meeting you","너를 만난 것"
-"discipline","규율, 학문, 훈련"
-"Appreciate","인정하다, 이해하다, 감사하다"
-"viscosity","점도, 점착성"
-"Rubric","설명, 주석"
-"fidelity","엄수, 충실도"
-"Repository","저장소, 보관소 (데이터나 코드파일)"
-"recapitulate","요약하다"
-"Recapitulation","간단한 요약, 개요"
-"Enjoyable","즐거운"
-"pharmaceutical","약학의, 약제의"
-"Water of hydration","화합물 내 물분자"
-"Crucible","도가니"
-"Lid","뚜껑"
-"Scale of 1 to 10","1~10 점 중에"
-"frustrated","일이 잘 안 풀릴 때 답답함"
-"Stuck","상황, 문제, 인생에서 막힌 느낌"
-"Stuffy","공기, 환경이 답답한 느낌"
-"Over well eggs","완숙"
-"Sunny side up","반숙"
-"Better yet","차라리 (부사)"
-"or better yet","아니면 차라리 (부사)"
-"Lunar new year","음력 1월1일 - 설날"
-"Dispose","배치하다"
-"Dispose of","버리다 (구동사)"
-"Intensive","집중적인"
-"Extensive","광범위한"
-"credential","자격, 증명서"
-"along","~를 따라"
-"along with ~","~와 함께, ~을 따라서, ~와 마찬가지로"
-"alongside","곁에"
-"manifestation","징후, 조짐"
-"agglomerate","뭉치다, 합치다, 한 덩어리가 되다"
-"helical","나선형의"
-"plateau","정체기, 고원"
-"namely","즉, 다시말해"
-"dispersion","분산"
-"desorption","탈착"
-"surface","표면"
-"Alkail","알칼리, 염기성 화합물"
-"Complement","보집합, 여집합"
-"Union","합집합"
-"intersection","교집합"
-"permutation","순열 : nPr = n!/ (n-r)!"
-"combination","조합 : nCr = n!/r!(n-r)!"
-"reduction","감소, 축소, 환원"
-"literature","문학, 소설, 시, 기존에 발표된 학술 연구 전체"
-"commencement","졸업식, 시작"
-"naut","황소, 여행자, 조종사"
-"round up","올림"
-"round down","내림"
-"round off","반올림"
-"curvature","곡률, 휘어있는 정도"
-"sintering","소결"
-"align with","(가능성, 목표, 기준에) 부합하다"
-"consistent with","(데이터들이 일관될 때) 일치한다"
-"dilute","희석한, 희석하다, 묽게 하다"
-"Plasticity","소성"
-"Brass","황동, 금관악기"
-"Annulation","취소, 말소, 삭제"
-"ductility","연성, 늘어나는 능력"
-"flexibility","유연성, 잘 휘는 성질"
-"stress","가해진 힘"
-"strain","그 힘 때매 생긴 변형 정도"
-"coherency","통일, 일관성, 응집성"
-"superb","훌륭한"
-"lapse","경과"
-"cardiac","심장의"
-"arrest","체포하다"
-"cardiac arrest","심장마비"
-"subset","부분집합"
-"bronchus","기관지"
-"Asthma","천식"
-"radish","무"
-"Soap opera","일일연속으로 이어지는 막장드라마"
-"Subscript","아래첨자"
-"nominal","명목상의, 형식적인"
-"Be short of sth","sth가 부족하다"
-"perpetual","영구적인, 집요한"
-"Confront","직면하다"
-"Starting at 3","3 시부터"
-"Border","국경"
-"meridian","자오선 (북극점과 남극점을 잇는 지구의 세로선, 경선 이라고도 함)"
-"longitude","경도"
-"latitude","위도"
-"The prime meridian","본초자오선"
-"Pacifier","쪽쪽이"
-"redo","다시 하다, 처음부터 다시 만들다"
-"Quarter","4등분, 1/4"
-"Quartiles","데이터를 4등분하는 기준값"
-"First quartiles","1 사분위수"
-"third quariles","3 사분위수"
-"Proportion","비율"
-"Population","집합"
-"Standard deviation","표준편차"
-"Variance","분산"
-"Dislocation","위치를 벗어남, 전위"
-"Elongation","연장"
-"Rotation","회전"
-"Revolution","혁명, 회전"
-"Cramp","쥐, 경련"
-"Cramped","좁은"
-"Unwind","풀다, 쉬다"
-"Wind [waɪnd]","굽이치다, 구부러지다, 휘다"
-"matter","중요하다, 의미가 있다."
-"kidnap","납치하다"
-"cash","현금 (동전, 지폐 포함)"
-"Bill","지폐"
-"acquiesce","묵인하다, 순응하다"
-"star","주연을 맡다"
-"starring","주연으로 출연하는"
-"red pepper / green pepper / yellow pepper","거의 100% 피망"
-"bell pepper","피망 (가장 정확)"
-"sweet pepper","단맛 나는 피망 계열"
-"Pepper, black pepper","후추"
-"Without further ado","지체하지 않고, 바로"
-"Ado","소란, 괜한 번거로움, 소동"
-"Industry","분야 (전공 물어볼 때)"
-"Army","군대"
-"showerhead","샤워기"
-"On the eve of","~를 바로 앞두고"
-"Eve","전 날, 직전 시점"
-"Apparatus","실험장비, 실험기구"
-"repulsion","거절"
-"Cater","음식, 서비스, 오락 등을 제공하다"
-"Catering","음식 조달, 음식 조달업자가 제공하는 요리"
-"Go overboard","과하게 ~하다, 지나치게 ~하다"
-"Plunger","뚫어뻥"
-"plunge","급락하다, 푹 뛰어들다, 잠기다, (상황에) 빠지다"
-"divisor","약수"
-"divider","분리하는 장치, 분리하는 것"
-"membrane","막, 세포막, 박막"
-"commencement","시작, 개시, 졸업식"
-"Nail","못, 손톱, 발톱, 못으로 고정하다/박다"
-"Nail it","정확하게 맞히다"
-"Nailed it","완벽하게 해냈다, 잘했다"
-"Since then","그 때 이후로"
-"tipsy","조금 취한 (얼굴 좀 빨개지고 말 많아짐)"
-"drunk","취한 (비틀거리고 기억 흐릿)"
-"impeach","탄핵하다, 비난하다, 고소하다"
-"once a week","일주일에 한 번"
-"Twice a week","일주일에 두 번"
-"three times a week","일주일에 세 번"
-"Once every two weeks","2주에 한번"
-"Balance","실험실 저울"
-"The other day","얼마 전에"
-"another day","다른 날 (미래 대체 의미)"
-"Some other day","언젠간 다른 날 (막연한 미래)"
-"compliment","칭찬하다, 칭찬"
-"complement","보완하다, 잘 어울리다"
-"refreshments","다과"
-"refreshment","기분 전환, 상쾌함"
-"dog-eat-dog world","약육강식 사회, 각자도생, 경쟁 치열한 업계 묘사할 때"
-"bride","신부"
-"shoot","촬영하다"
-"Imagery","상, 심상, 형상"
-"dial in","정확히 맞추다, 집중해서 잘 해내다"
-"pudgy","통통한, 살집 있는 (귀여운 느낌)"
-"inhale","들이마시다"
-"be inhaling ribs","갈비를 미친 듯이 먹다"
-"racks of ribs","갈비 한 세트 / 한 판"
-"rack","갈비뼈가 붙어 있는 한 덩어리"
-"segment","방송 코너"
-"Of all of ~","~ 중에서"
-"moving","감동적인"
-"genesis","기원, 시작"
-"choke up","목이 메다"
-"emotional","감동적인, 감정적인 (상황에 따라 긍/부정 다 가능)"
-"venture","모험적으로 시도하다"
-"endeavor","노력, 시도, 도전 (조금 격식체)"
-"transcript","녹취록, 성적증명서"
-"snooze","졸다, 졸음"
-"Worm","벌레"
-"Module","소자, 업무"
-"permeability","침투성"
-"mechanistic","기계적"
-"peroxide","산소-산소 단일 결합"
-"rationalize","합리화하다"
-"rational","합리적인, 이성적인, 현명한"
-"comprising","구성하는"
-"centric","중심의"
-"validate","검증하다"
-"protocol","규약"
-"acquisition","인수"
-"artifact","인공물"
-"toothpick","이쑤시개"
-"Cancer","암"
-"At most","최대, 아무리 많아도"
-"At least","최소, 적어도"
-"Equally likely","각 경우의 확률이 같다, 동등하다"
-"Ladle","국자"
-"Spatula","뒤집개"
-"Cation","양이온"
-"Anion","음이온"
-"Then","그럼, 그 다음엔"
-"Pass for","여겨지다, ~인 것 처럼 보이다"
-"Census","인구조사"
-"wise","지혜로운"
-"element-wise","원소별"
-"effusion","분출"
-"Hydrogen effusion","열에 의해 약하게 결합된 수소가 빠져나가는 현상"
-"substantiate","입증하다"
-"rule out","배제하다"
-"pinpoint","명확히 밝히다"
-"20 fold","20배 (fold :겹)"
-"suppress","막다"
-"order","자릿수"
-"Calibrate","눈금매기기"
-"constitutes","구성하다"
-"surpass","능가하다, 초과하다"
-"compound","섞다, 혼합하다, 악화시키다, 문제를 키우다 (상황이 꼬인다)"
-"be compounded","악화되었다."
-"disperse","흩어지게 하다, 퍼뜨리다"
-"render","(어떤 상태가 되게) 만들다, 표현하다, 제공하다"
-"durability","내구성, 내구력"
-"durable","오래가는, 튼튼한"
-"Stringent","엄중한, 엄격한, 제한적인"
-"count","개수"
-"substantial","상당한, 의미있는"
-"hookup","연결, 배선, 결선"
-"sharp","예리한"
-"sharp interface","뚜렷한, 선명한, 뾰족한"
-"contrary","반대의"
-"be contrary to ~","~ 와 반대되는"
-"metrics","평가 기준이 되는 수치들, 성과 상태를 수치로 나타내는 지표"
-"Metric","측정 기준"
-"Matrix","행렬"
-"Flavorous","맛있는"
-"Flavor","맛"
-"Take after","(부모나 집안의 어른을) 닮다"
-"Make out","알아보다, 분간하다"
-"Mammal","포유류"
-"Perpendicular","수직의"
-"Devious","일탈적인, 그릇된"
-"Shaved ice","빙수"
-"Red bean","팥"
-"Be funny","웃기다"
-"meet specifications","그 요구 조건을 모두 만족한다"
-"Nail","못, 손톱"
-"Screw","나사"
-"Bolt","볼트"
-"mission","선교 / 전도 활동"
-"mission work","선교 활동"
-"missionary","선교사"
-"Altercation","격론, 언쟁, 논쟁"
-"Altercate","언쟁하다"
-"Abdomen","복부, 배"
-"Custody","구금, 수감"
-"Crawfish","민물가재"
-"exoskeleton","외골격"
-"peel a lobster","가재 껍질 벗기다"
-"peel","껍질을 벗기다, (채소나 야채의) 껍질"
-"shell","(단단한 보호용) 껍질"
-"orange peel","오렌지 껍질"
-"apple peel","사과 껍질"
-"potato peel","감자 껍질"
-"banana peel","바나나 껍질"
-"lobster shell","가재 껍질"
-"crab shell","게 껍질"
-"egg shell","달걀 껍질"
-"nut shell","견과 껍질"
-"mulatto","흑백 혼혈"
+win + 사람,~의 마음을 얻다
+beat + 사람,~을 이기다
+date with someone,데이트하다
+date someone,사귀다
+upgrade,"(기술, 시스템, 장비) 업그레이드 하다"
+stray cats,길고양이
+alley cats,길고양이
+attractive,"잘생긴, 예쁜"
+pathetic,불쌍한 (원어민 사이에선 한심한 이라고 사용)
+even better than I expected,기대했던 것보다 훨씬 좋다
+Butt,"엉덩이 - back of your pants, backside로 말하는게 일반적"
+hip,"엉덩이 옆부분, 고관절, 엉덩이/골반 부위"
+puzzle,"퍼즐, 수수께끼; 당혹스럽게 하다"
+Freak out,"놀라다, 당황하다"
+Embarrassed,창피한
+Embarrass,창피하게 하다
+embrace,"포용하다, 포옹하다, 받아들이다"
+Discard,"(지침, 메뉴얼을) 버리다, 폐기하다"
+"Throw away, junk",쓰레기를 버리다
+take out,내다버리다
+Partner with,협력하다
+Come across,"우연히 찾다, 만나다"
+monsoon,"계절풍, 우기"
+Grumble,불평하다
+Stumble,비틀거리다. 부진하다
+culinary,"요리의, 부엌의, 요리용의"
+jealous,"부러워하는, 질투하는"
+Until the end,끝까지
+Leftovers,남은 음식
+vague,"애매한, 모호한"
+ambiguous,"두 가지로 해석될 수 있는, 모호한"
+unclear,불분명한
+misunderstand,오해하다
+plump,살짝 포동포동한
+pudgy,"통통한, 토실토실한"
+Orientation schedule,오티 일정
+Crutch,"버팀목, 목발"
+See you in an hour,한시간 뒤에 봐
+maternity,모성
+Paternity,부성
+Scam,"신용사기, 사기"
+Chalkboard,칠판
+Elbow,팔꿈치
+Wrist,손목
+Nail,손톱
+toenail,(사람의) 발톱
+Toe,발가락
+tiptoe,"발끝, 발끝으로 걷다"
+Maze,미로
+Abduct,납치하다
+Abduction,납치
+Luckily… / Fortunately…,(문장 맨 앞에 위치) 다행히
+tweak,"미세 조정하다, 살짝 수정하다, 비틀다 (문맥)"
+pull a muscle,"근육을 삐다, 근육에 무리가 가다"
+Sprain,삐다
+hallow,신성하게 하다
+Mission,사절단
+Rejuvenate,"젊어지다, 회복하다, 활력을 되찾게 하다"
+Menace,"위험, 위협하다, 협박하다."
+Dish detergent,주방세제
+Deodorant,디오드런트 탈취제
+adjective,형용사
+moreover,게다가
+furthermore,게다가
+consequently,결과적으로
+nevertheless,그럼에도 불구하고
+otherwise,그렇지 않으면
+not a big deal,별 일 아니다
+On that front,그점에 있어서는
+Email + 사람,~에게 메일을 보내다
+In a bit,조금 있다가
+apurpose,"고의로, 일부러"
+"text, message + 사람",~에게 메세지를 보내다
+message me,메세지 줘
+Send a message to ~,~에게 메시지를 보내다
+Call,에게 전화걸다
+call to N,"N를 소리쳐 부르다, 부르다"
+call for,요구하다
+Prefix,접두사
+Plagiarism,표절
+Draft,초안
+Overseas,해외
+entrée,"주요리 (미국), 전채요리 (프랑스 등)"
+C/O,care of : ~씨 앞으로 전달해 주세요 느낌
+two-hour window,2시간짜리 시간대/기간
+Window,"제한된 시간, 범위 등으로도 쓰임"
+stereo,"스테레오, 입체 음향, 스테레오 장치"
+Stereotype,고정관념
+kinesiology,운동학
+Sneeze,재채기
+Right triangle,직각삼각형
+Fish cake,어묵
+Pepper,후추
+Radish,무
+Pickled radish,단무지
+Rice cake,떡
+Portable charger,보조배터리
+Translate,"옮기다, 번역하다"
+Up until a year ago,1년 전까지만 해도
+up until : ~,까지 쭉
+consonant,자음
+vowel,모음
+intonation,억양
+whole,"완전한, 전체의"
+Ask for,요구하다
+be looking for,찾고있다
+be looking forward to,기대하고 있다
+roast dinner,구운 고기와 곁들임 요리로 구성된 식사
+fuss,"관심, 신경, 호들갑"
+be fussed on / about ~,"에 신경쓰다, 관심있다"
+Things like : ~,같은 것들
+like,"약간, 뭐랄까"
+tie,무승부
+one versus one / 1 vs. 1,"일대일, 1 대 1"
+draw,무승부
+flour,밀가루
+flower,꽃
+meet,만나다
+meat,고기
+sea,바다
+see,보다
+right,"오른쪽, 옳은"
+write,쓰다
+knight,기사 (중세)
+night,밤
+pair,한 쌍
+pear,배(과일)
+sun,태양
+son,아들
+like,닮았다. 비슷하다
+as ~,"대로, ~처럼 (방법/역할)"
+As if,마치 ~처럼 (가정/상상)
+difficulty,어려움/장애물
+obstacle,어려움/장애물
+hurdle,어려움/장애물
+Predicament,난처한 곤경
+crisis,위기
+uncertainty,불확실성
+unpredictability,예측 불가능성
+insecurity,"불안감, 불안정, 자신감 부족"
+Hesitate,망설이다
+Sense of relief,안도감
+sense of reassurance,안도감
+Reassure,"안심시키다, 확신시키다."
+Assure,"보장하다, 확신시키다."
+"no longer alone, not alone anymore",더 이상 혼자가 아닌
+offer to + 동사원형,"~하겠다고 제안하다, ~할 의향을 보이다"
+Wrap your head around something,"복잡하거나 충격적인 사실을 이해하다, 받아들이다"
+Stretch one’s money,돈을 절약해 오래 쓰다
+Farewell,작별 인사
+goodbye,작별 인사
+stepping stones,발판
+a springboard,도약대
+Laughter,"웃음, 웃음소리"
+Laugh,"웃다, 웃음"
+overlap with,~와 겹치다
+mirror,"반영하다, 닮다, 유사하게 따라 하다"
+Journey,여정
+Voyage,"바다, 우주 같은 긴여행"
+personal growth,개인의 내적 성장
+shake,흔들다 - shook 흔들었다.
+unsettle,"동요시키다, 불안정해지다, 뒤흔들다"
+"loss, damage, setback",손실
+Setback,"계획이나 발전의 차질, 좌절"
+Longing,"갈망, 간절히 그리워 하는 마음"
+long for,"~을 갈망하다, 그리워하다"
+Radius,반지름
+Diameter,지름
+Sqrt,제곱근 (square root)
+Cube root,세제곱근
+fourth root,네제곱근
+punctuation,"구두점, 문장부호 / 구두법"
+hamper,"방해하다, 저해하다, (진행에) 문제를 일으키다"
+firsthand,"직접적인, 직접 경험한"
+up-to-date,"최신의, 최신 정보를 반영한"
+invigorate,"활기를 불어넣다, 기운 나게 하다"
+articulate,"(생각을) 분명히 표현하다, 또렷하게 말하다"
+garner,"(정보·지지 등을) 얻다, 모으다"
+before a live audience,"관중 앞에서, 실제 청중 앞에서"
+oppression,"억압, 압제, 억누름"
+acquiescing,"마지못해 받아들이는, 묵인하는"
+thesis,"논문, 논제, 주장 (특히 학위 논문)"
+likelihood,"가능성, 확률"
+convey,"전달하다, 전하다 (생각·감정·정보 등을)"
+formulaic,"정형화된, 틀에 박힌, 공식에 따른"
+infrastructure,사회 기반 시설 (도로·철도·통신·전력망 등)
+unalterably,"불변하게, 바꿀 수 없게"
+hostile,"적대적인, 적의 있는"
+stilted,"(말이나 글이) 부자연스러운, 딱딱한"
+manifestation,"(감정·현상 등의) 나타남, 표현, 징후"
+sparingly,"조금만, 절약하여, 드물게"
+sparing,"절약하는, 아끼는, 검소한"
+sailing,"항해, 배 타고 가는 것"
+Spare,"여분의, 여가, 남은, 아끼다"
+Shame,"아쉬운 일, 수치심, 부끄러움"
+weather-wise,날씨 면에서는
+money-wise,돈 관련해서는
+schedule-wise,일정 면에서는
+health-wise,건강 관련해서는
+emotional,"감정적인, 정서적인"
+mental,정신적인
+psychological,심리적인
+memory,추억 (가산)
+memory,기억력 (불가산)
+Stand,견디다
+connected to,직접적으로 관련되다
+connected with,"(추상적, 일반적으로) 관련되다."
+Irritation,짜증
+Irritate,짜증나게 하다
+symbol,상징
+In modern academic culture,현대의 학문적 문화에서
+a decline in academic performance,학업 성취도 저하
+long-term memory,장기 기억
+the likelihood of anxiety and depression,불안과 우울증의 가능성
+Likelihood,가능성
+insomnia,불면증
+expatriate,"해외 거주자, 본국 밖에서 사는 사람"
+Forgive,용서하다
+Verdict,평결(유무죄에 대한 배심원의 최종 판단)
+sober up,술 깨다
+tipsy,알딸딸한
+sarcasm,"빈정거림, 비아냥, 비꼼"
+Layover,경유 대기시간
+Vain,헛된
+Ethnicity,"인종적 정체성, 민족성"
+Race,"신체적, 인종적 분류"
+causation,인과관계
+Correlation,상관관계
+Irritability,과민성
+Milestone,"이정표, 중요한 시점"
+Sore [sɔːr],아픈
+Throat,목
+Quote [kwout],"인용하다, 문구"
+Separate,"분리된, 따로 만든"
+Mock,"모의의, 가짜의, 조롱하다"
+Mock test,모의 시험
+The other day,며칠전에
+Just so you know,참고로 말하자면
+inertia,관성
+Function,"역할, 기능"
+Role,역할
+Coincide,"동시에 일어나다, 일치하다"
+coincidence,"우연, 동시, 인연"
+two weeks before ~,~하기 2주 전에
+In three weeks,3주 후에
+Three weeks later,3주 후
+stand,"서다, 견디다 (스트레스)"
+Stand for,"의미하다, 지지하다"
+Endure,견디다 (스트레스)
+Withstand,"견디다 (물리적 압력, 공격을)"
+phenomenal,"경이로운, 놀라운, 굉장한"
+Holocaust,"홀로코스트, 나치의 유대인 집단학살 (역사적 사건); 대규모 학살 (일반 용법)"
+Linking sound,연음
+Suffix,접미사
+entry,"입장, 진입, 기입 항목"
+entrée,"주요리 (미국), 전채요리 (프랑스 등)"
+Spray,뿌리다
+Stinky,"냄새나는, 악취나는"
+constellation,"별자리, 위상, 무리, 집합"
+Name after ~,이름을 따서 짓다
+capitalism,자본주의
+communism,공산주의
+characterization,"표현, 묘사"
+Shark,상어
+Statue,조각상
+directness,"솔직함, 똑바름"
+A sense of directness,"직설적인 느낌, 솔직함"
+Fine art,순수미술
+Whine,징징거리다
+Due + 방향,정확히 그 방향
+Due north,정북
+Due south,정남
+North of east,동쪽을 기준으로 북쪽으로 몇 도
+Eggplant,가지
+Reply,"답장하다, 회신하다, 응답하다"
+Bok choy,청경채
+on behalf of,"~을 대표하여, ~을 대신하여, ~을 위해"
+"on behalf of the team, thank you",팀을 대표해 감사드립니다
+Badly,"심하게, 몹시, 간절히, 진짜"
+Awkward,어색한
+eyesight,시력
+past tense,과거시제
+Future tense,미래시제
+Present tense,현재시제
+tense,시제
+Converge,수렴하다
+Diverge,발산하다
+in half,"반으로, 두 부분으로"
+Into three pieces,세조각
+Into four pieces,네조각
+extractor,"추출기, 배출 장치"
+Fan,선풍기
+Pillar,기둥
+Empathize with,(경험으로부터) 공감하다
+"The other person, counterpart",상대방
+The back of the/my/your hand,손등
+Haunt,"괴롭히다, 나타나다, 유령이 있는"
+Trash,"버리다, 쓰레기로 취급하다"
+earthquake,지진
+go to,이동 동작 자체(가다)
+get to,목적지에 도착하는 것에 초점
+Leverage,영향력
+Deviation,"편차, 일탈, 벗어남"
+Manful,"남자다운, 굳센"
+contender,경쟁자
+contend,다투다
+precedent,전례
+densification,치밀화
+Trace level,미량
+trace,"흔적, 자취, 극미량(과학, 공학 영어)"
+comprehensive,포괄적인
+decompose,분해하다
+underlying,밑에 있는
+degradation,"열화, 성능 저하, 분해, 퇴화"
+be attributed to,"~에 귀속되다, 때문이다, 덕분이다"
+substitution,치환
+marginally,미미하게
+reliability,신뢰도
+ingress,"유입, 진입, 들어오는 행위"
+Half hour tops,길어야 30분
+Half hour at the longest,"길어야 30분, 최대 30분 정도"
+At the longest,"최대, 아무리 길어도"
+one and a half hours,1시간 반
+variability,"변동성, 다양성"
+elevate,"올리다, 높이다, 상승시키다"
+Complement,보완하다
+assess,"평가하다, 산정하다, (세금 등을) 부과하다"
+pristine,"오염되지 않은, 손대지 않은, 원래 상태 그대로인"
+Original,원래의
+corroborate,"증거로 뒷받침하다, 입증하다"
+Landscape,"풍경, 지역, 지형"
+quantitatively,양적으로
+Mitigate,"완화하다, 줄이다, 저감, 감소"
+deconvoluted,분리된
+Underpin,"지지하다, 확증하다"
+addict,"중독자 (명사), 중독시키다 (동사)"
+Clash,충돌하다
+royal,"왕실의, 왕족의"
+Loyal,충실한
+Every now and then,가끔씩
+From time to time,가끔씩 (책에서 쓰는 용어)
+Ever since,"~ 한 이래로 계속, 줄곧"
+String lights,"줄전구, 전구 조명, 장식용 조명"
+Carousel,회전목마
+Overcrowding,과밀
+Camp,"야영하다, 캠핑하다"
+Comfort,"위로, 안도감, 위로하다, 슬픔을 달래주다"
+take away,치우다
+take off,"벗다, 이륙하다, 자르다 (머리)"
+Got identified,"들키다, 정체가 드러나다"
+vertigo,"현기증, 어지럼증"
+suitemate,스위트형 기숙사/거주공간을 함께 쓰는 사람
+Pull up,(차량이) 움직이다가 멈추다
+Be trying to~,"~하려고 노력 중이다, ~하려는 중이다"
+Deformation,변형
+Meeting you,너를 만난 것
+discipline,"규율, 학문, 훈련"
+Appreciate,"인정하다, 이해하다, 감사하다"
+viscosity,"점도, 점착성"
+rubric,"평가 기준표, 채점 기준; 표제 (문맥)"
+fidelity,"엄수, 충실도"
+Repository,"저장소, 보관소 (데이터나 코드파일)"
+recapitulate,요약하다
+Recapitulation,"간단한 요약, 개요"
+Enjoyable,즐거운
+pharmaceutical,"약학의, 약제의"
+Water of hydration,화합물 내 물분자
+Crucible,도가니
+Lid,뚜껑
+Scale of 1 to 10,1~10 점 중에
+frustrated,일이 잘 안 풀릴 때 답답함
+Stuck,"상황, 문제, 인생에서 막힌 느낌"
+Stuffy,"공기, 환경이 답답한 느낌"
+Over well eggs,완숙
+sunny-side up,한쪽 면만 익힌 달걀프라이 (보통 노른자는 반숙)
+Better yet,차라리 (부사)
+or better yet,아니면 차라리 (부사)
+Lunar new year,음력 1월1일 - 설날
+Dispose,배치하다
+Dispose of,버리다 (구동사)
+Intensive,집중적인
+Extensive,광범위한
+credential,"자격, 증명서"
+along,~를 따라
+along with ~,"~와 함께, ~을 따라서, ~와 마찬가지로"
+alongside,곁에
+manifestation,"징후, 조짐"
+agglomerate,"뭉치다, 합치다, 한 덩어리가 되다"
+helical,나선형의
+plateau,"정체기, 고원"
+namely,"즉, 다시말해"
+dispersion,분산
+desorption,탈착
+surface,표면
+alkali,"알칼리, 염기성 물질"
+Complement,"보집합, 여집합"
+Union,합집합
+intersection,교집합
+permutation,순열
+combination,조합
+reduction,"감소, 축소, 환원"
+literature,"문학, 소설, 시, 기존에 발표된 학술 연구 전체"
+commencement,"졸업식, 시작"
+naut,"항해자, 여행자를 뜻하는 합성어 구성 요소"
+round up,"올림하다, 반올림해 올리다 (문맥)"
+round down,"내림하다, 버림하다 (문맥)"
+round off,반올림
+curvature,"곡률, 휘어있는 정도"
+sintering,소결
+align with,"(가능성, 목표, 기준에) 부합하다"
+consistent with,(데이터들이 일관될 때) 일치한다
+dilute,"희석한, 희석하다, 묽게 하다"
+Plasticity,소성
+Brass,"황동, 금관악기"
+annulation,"취소, 무효화, 폐기 (드문 표현)"
+ductility,"연성, 늘어나는 능력"
+flexibility,"유연성, 잘 휘는 성질"
+stress,"응력, 물체 내부의 단위면적당 힘; 스트레스, 압박"
+strain,"변형률, 원래 길이에 대한 길이 변화의 비율; 변형, 긴장 (문맥)"
+coherency,"통일, 일관성, 응집성"
+superb,훌륭한
+lapse,경과
+cardiac,심장의
+arrest,체포하다
+cardiac arrest,심정지
+subset,부분집합
+bronchus,기관지
+Asthma,천식
+radish,무
+soap opera,"연속극, 멜로드라마"
+Subscript,아래첨자
+nominal,"명목상의, 형식적인"
+Be short of sth,sth가 부족하다
+perpetual,"영구적인, 집요한"
+Confront,직면하다
+Starting at 3,3 시부터
+Border,국경
+meridian,"자오선 (북극점과 남극점을 잇는 지구의 세로선, 경선 이라고도 함)"
+longitude,경도
+latitude,위도
+The prime meridian,본초자오선
+Pacifier,쪽쪽이
+redo,"다시 하다, 처음부터 다시 만들다"
+Quarter,"4등분, 1/4"
+Quartiles,데이터를 4등분하는 기준값
+first quartile,제1사분위수
+third quartile,제3사분위수
+Proportion,비율
+population,모집단; 인구
+Standard deviation,표준편차
+Variance,분산
+Dislocation,"위치를 벗어남, 전위"
+elongation,"신장, 늘어남, 연신율 (재료 문맥)"
+Rotation,회전
+Revolution,"혁명, 회전"
+Cramp,"쥐, 경련"
+Cramped,좁은
+Unwind,"풀다, 쉬다"
+Wind [waɪnd],"굽이치다, 구부러지다, 휘다"
+matter,"중요하다, 의미가 있다."
+kidnap,납치하다
+cash,"현금 (동전, 지폐 포함)"
+Bill,지폐
+acquiesce,"묵인하다, 순응하다"
+star,주연을 맡다
+starring,주연으로 출연하는
+red pepper / green pepper / yellow pepper,"빨간 고추/피망 등, 초록 고추/피망 등, 노란 피망 등 (문맥)"
+bell pepper,피망 (가장 정확)
+sweet pepper,단맛 나는 피망 계열
+"Pepper, black pepper",후추
+Without further ado,"지체하지 않고, 바로"
+Ado,"소란, 괜한 번거로움, 소동"
+industry,"산업, 업계, 산업 분야"
+Army,군대
+showerhead,샤워기
+On the eve of,~를 바로 앞두고
+Eve,"전 날, 직전 시점"
+Apparatus,"실험장비, 실험기구"
+repulsion,"반발, 반발력, 밀어냄, 혐오감"
+Cater,"음식, 서비스, 오락 등을 제공하다"
+Catering,"음식 조달, 음식 조달업자가 제공하는 요리"
+Go overboard,"과하게 ~하다, 지나치게 ~하다"
+Plunger,뚫어뻥
+plunge,"급락하다, 푹 뛰어들다, 잠기다, (상황에) 빠지다"
+divisor,"제수, 나누는 수; 약수 (약수 관계 문맥)"
+divider,"분리하는 장치, 분리하는 것"
+membrane,"막, 세포막, 박막"
+commencement,"시작, 개시, 졸업식"
+Nail,"못, 손톱, 발톱, 못으로 고정하다/박다"
+Nail it,정확하게 맞히다
+Nailed it,"완벽하게 해냈다, 잘했다"
+Since then,그 때 이후로
+tipsy,조금 취한 (얼굴 좀 빨개지고 말 많아짐)
+drunk,취한 (비틀거리고 기억 흐릿)
+impeach,"탄핵하다, 탄핵소추하다; 진술 신빙성을 문제 삼다"
+once a week,일주일에 한 번
+Twice a week,일주일에 두 번
+three times a week,일주일에 세 번
+Once every two weeks,2주에 한번
+Balance,실험실 저울
+The other day,얼마 전에
+another day,다른 날 (미래 대체 의미)
+Some other day,언젠간 다른 날 (막연한 미래)
+compliment,"칭찬하다, 칭찬"
+complement,"보완하다, 잘 어울리다"
+refreshments,다과
+refreshment,"기분 전환, 상쾌함"
+dog-eat-dog world,"약육강식 사회, 각자도생, 경쟁 치열한 업계 묘사할 때"
+bride,신부
+shoot,촬영하다
+Imagery,"상, 심상, 형상"
+dial in,"정확히 맞추다, 집중해서 잘 해내다"
+pudgy,"통통한, 살집 있는 (귀여운 느낌)"
+inhale,들이마시다
+be inhaling ribs,갈비를 미친 듯이 먹다
+racks of ribs,갈비 한 세트 / 한 판
+rack,갈비뼈가 붙어 있는 한 덩어리
+segment,방송 코너
+Of all of ~,~ 중에서
+moving,감동적인
+genesis,"기원, 시작"
+choke up,목이 메다
+emotional,"감동적인, 감정적인 (상황에 따라 긍/부정 다 가능)"
+venture,모험적으로 시도하다
+endeavor,"노력, 시도, 도전 (조금 격식체)"
+transcript,"녹취록, 성적증명서"
+snooze,"졸다, 졸음"
+Worm,벌레
+module,"모듈, 구성 단위, 부품 묶음"
+permeability,"투과성, 투수성; 투자율 (자기 문맥)"
+mechanistic,"기전의, 작용 메커니즘에 관한"
+peroxide,과산화물
+rationalize,합리화하다
+rational,"합리적인, 이성적인, 현명한"
+comprising,구성하는
+centric,중심의
+validate,검증하다
+protocol,규약
+acquisition,"획득, 취득, 인수"
+artifact,"인공물; 실험/측정의 인공적인 왜곡, 허상"
+toothpick,이쑤시개
+Cancer,암
+At most,"최대, 아무리 많아도"
+At least,"최소, 적어도"
+Equally likely,"각 경우의 확률이 같다, 동등하다"
+Ladle,국자
+Spatula,뒤집개
+Cation,양이온
+Anion,음이온
+Then,"그럼, 그 다음엔"
+Pass for,"여겨지다, ~인 것 처럼 보이다"
+Census,인구조사
+wise,지혜로운
+element-wise,원소별
+effusion,"작은 틈을 통한 기체 유출, 분출 (물리); 삼출 (의학)"
+hydrogen effusion,"수소의 유출, 수소가 작은 틈을 통해 빠져나가는 현상"
+substantiate,입증하다
+rule out,배제하다
+pinpoint,명확히 밝히다
+20-fold,"20배의, 20배로"
+suppress,막다
+order,자릿수
+calibrate,"교정하다, 보정하다, 눈금을 맞추다"
+constitutes,"구성한다, ~에 해당한다"
+surpass,"능가하다, 초과하다"
+compound,"섞다, 혼합하다, 악화시키다, 문제를 키우다 (상황이 꼬인다)"
+be compounded,악화되었다.
+disperse,"흩어지게 하다, 퍼뜨리다"
+render,"(어떤 상태가 되게) 만들다, 표현하다, 제공하다"
+durability,"내구성, 내구력"
+durable,"오래가는, 튼튼한"
+Stringent,"엄중한, 엄격한, 제한적인"
+count,개수
+substantial,"상당한, 의미있는"
+hookup,"연결, 배선, 결선"
+sharp,예리한
+sharp interface,"선명한 계면, 뚜렷한 경계를 가진 계면"
+contrary,반대의
+be contrary to ~,~ 와 반대되는
+metrics,"평가 기준이 되는 수치들, 성과 상태를 수치로 나타내는 지표"
+Metric,측정 기준
+Matrix,행렬
+flavorous,"풍미가 있는, 맛이 풍부한"
+Flavor,맛
+Take after,(부모나 집안의 어른을) 닮다
+Make out,"알아보다, 분간하다"
+Mammal,포유류
+Perpendicular,수직의
+devious,"교활한, 기만적인, 우회하는"
+Shaved ice,빙수
+Red bean,팥
+Be funny,웃기다
+meet specifications,그 요구 조건을 모두 만족한다
+Nail,"못, 손톱"
+Screw,나사
+Bolt,볼트
+mission,"임무, 사명, 선교 활동 (문맥)"
+mission work,선교 활동
+missionary,선교사
+Altercation,"격론, 언쟁, 논쟁"
+Altercate,언쟁하다
+Abdomen,"복부, 배"
+Custody,"구금, 수감"
+Crawfish,민물가재
+exoskeleton,외골격
+peel a lobster,바닷가재 껍데기를 벗기다
+peel,"껍질을 벗기다, (채소나 야채의) 껍질"
+shell,(단단한 보호용) 껍질
+orange peel,오렌지 껍질
+apple peel,사과 껍질
+potato peel,감자 껍질
+banana peel,바나나 껍질
+lobster shell,바닷가재 껍데기
+crab shell,게 껍질
+egg shell,달걀 껍질
+nut shell,견과 껍질
+mulatto,흑인과 백인의 혼혈인을 가리키던 옛 표현 (현재 모욕적으로 여겨질 수 있음)
